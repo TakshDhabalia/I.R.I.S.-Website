@@ -308,7 +308,7 @@ header .book_a_demo.hideDesktop {
 /* Home */
 
 #home {
-  background-image: url('./home_bg.svg');
+  background-image: url('../assets/svgs/home_bg.svg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top left;
@@ -949,7 +949,7 @@ footer .mobile {
 
 footer {
   font-family: 'Roboto', sans-serif;
-  background-image: url('./footer_bg.svg');
+  background-image: url('../assets/svgs/footer_bg.svg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top left;
